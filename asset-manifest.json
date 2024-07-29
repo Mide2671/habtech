@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8de640fb.css",
+    "main.js": "/static/js/main.fd0b7816.js",
+    "static/media/Relógio_Inteligente_Smartwatch_Ultra_Série_8_2023_-_Prata-removebg-preview.png": "/static/media/Relógio_Inteligente_Smartwatch_Ultra_Série_8_2023_-_Prata-removebg-preview.a94bb5828382332c78bf.png",
+    "static/media/The_best_laptops_you_can_get-removebg-preview.png": "/static/media/The_best_laptops_you_can_get-removebg-preview.fe5736297180d1803d6d.png",
+    "static/media/Apple_iPhone_14-removebg-preview.png": "/static/media/Apple_iPhone_14-removebg-preview.4dd3e7fea5e5164badd1.png",
+    "static/media/hp.png": "/static/media/hp.b45aa59e0ec33d361106.png",
+    "static/media/hero_endframe__cvklg0xk3w6e_large 2.jpg": "/static/media/hero_endframe__cvklg0xk3w6e_large 2.07acc87908c15526b4e2.jpg",
+    "static/media/ios.png": "/static/media/ios.faa9828a2e25aab063b3.png",
+    "static/media/dell-removebg-preview.png": "/static/media/dell-removebg-preview.c124960ece7dc397ea4c.png",
+    "static/media/Samsung_Galaxylnn2v8cj.jpg": "/static/media/Samsung_Galaxylnn2v8cj.51cb50630db12cda0ee8.jpg",
+    "static/media/tecno.png": "/static/media/tecno.0b2b493a819442c7a072.png",
+    "static/media/itel.png": "/static/media/itel.b95446bda8cacc17c87f.png",
+    "static/media/-removebg-preview.png": "/static/media/8a7cf739419c0c10371bf5ff1af371e4-removebg-preview.769092307f90eaf0a5ca.png",
+    "static/media/oraimo.png": "/static/media/oraimo.678f8472570e2f9693b6.png",
+    "static/media/wa5.jpg": "/static/media/wa5.82fc97c6c00022168c33.jpg",
+    "static/media/Oraimo_EarBud 2lnmydms3.jpeg": "/static/media/Oraimo_EarBud 2lnmydms3.45295a01f17cb3e7597c.jpeg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.8de640fb.css.map": "/static/css/main.8de640fb.css.map",
+    "main.fd0b7816.js.map": "/static/js/main.fd0b7816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de640fb.css",
+    "static/js/main.fd0b7816.js"
+  ]
+}
